@@ -26,6 +26,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
+- Javascript
 - CSS
 - Flexbox
 - CSS Grid
